@@ -1,6 +1,5 @@
 # clima_flutter
 
-A new  
 
 ## Getting Started
 
