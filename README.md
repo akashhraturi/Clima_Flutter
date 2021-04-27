@@ -1,6 +1,5 @@
 # clima_flutter
 
-A new Flutter application.
 
 ## Getting Started
 
