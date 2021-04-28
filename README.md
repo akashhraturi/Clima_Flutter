@@ -1,4 +1,5 @@
 # clima_flutter
+A modern weather app which takes GPS location of the device and make API Calls to grab live data from the Internet. 
 
 
 ## Getting Started
